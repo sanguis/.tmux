@@ -1,4 +1,4 @@
 .tmux
 =====
 
-a  tmux settings dir kinda line a .vim dir mainly with submodules
+a  tmux settings dir kinda like my .vim repo mainly with submodules
